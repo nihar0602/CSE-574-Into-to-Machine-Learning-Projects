@@ -18,16 +18,23 @@ Results: <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### [Character Detection](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-1) :
+### [Non-Linear Models for Supervised Learning](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/tree/master/Project-2) :
 <img src="Project-1/MD Files/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
-`Character Detection`: The goal of this task is to experiment with template matching algorithms. Specifically, the task is to find a specific character (or set of characters) in a given image. 
+`Non-Linear Models for Supervised Learning`: The goal of this project is divided into two parts. 
 
-**Approach:**
-- The project applied **Template matching algorithm** to detect a specific character (ex. a/b/c) in a given image
-- Created a templete each character "a", "b" and "c".
-- Implemented `NCC (Normalized Cross Correlation)` for matching the template with the given image.
+**Part-1:**`Sentiment Analysis`: In part-1, the goal is to develop the Machine Learning model which can classify movie reviews as positive or negative using two approaches. Word count vectorization and Neural Network approach are used to train the model. 
+
+In word count vectorization, the approach was to iterate through each review, obtain the word count of each word and prepare two labels: Positive and Negative. The words are referred to be as vocabulary. Based on the word, we classify to its corresponding label. During testing, based on the word count for each feautre, it classifies it as positive or negative review. 
+
+In Neural Network based approach, we applied different strategies. Strategies like increasing the width of the hidden layer, adding more hidden layers or increasing the number of epochs.Based on that a report was prepared which includes the accuracy on the test data set and the running time of the model. 
+
+**Part-2:**`Image Classification on the AI Quick Draw Dataset`: The goal of this project is to study the performance of the multi-layered pereceptron (Neural Network) on the AI quick draw dataset. The task was performed on the some portion of the original quick draw dataset. The original dataset consist of 50 million drawings, while we trained model on 4 million drawings dataset. A report is created which shows detailed information and evaluation performance(both accuracy and time) of the model on the test data set.  
+
+Results: <br>
+
+[Project Report](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/blob/master/Project-2/report.pdf)
 
 
 ### [Panorama/Image Stitching](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-2) :
