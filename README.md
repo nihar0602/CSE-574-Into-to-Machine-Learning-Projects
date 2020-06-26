@@ -41,15 +41,11 @@ In Neural Network based approach, we applied different strategies. Strategies li
 <img src="Project-1/MD Files/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
-`Image Stitching`: Create a panoramic image from at most 5 images. The goal of this project is to experiment with image stitching methods. Given a set of photos, your
-program should be able to stitch them into a panoramic photo. Overlap of the given images will be at least 20%. Any API provided by OpenCV could be used, except “`cv2.findHomography()`” and APIs that have “stitch”, “Stitch”, “match” or “Match” in their names, e.g., “`cv2.BFMatcher()`” and “`cv2.Stitcher.create()`”.
+`Machine Learning Fairness`:In this project, the task was to designing a un-biased machine learning model. We are give different models(Naive-Bayes Classifier, Support Vector Machine and Neural Network). We must apply post-processing techniques on the given models and evaluate the accuracy on the Northpointe’s COMPASS dataset. A detailed report is prepared which concludes which model to use for dataset that can create fair results. 
 
-**Approach:**
-- Keypoints detection and 128 bit feature vector computation using `SIFT` descriptor. 
-- Created an algorithm that can define the order of the images if given in randomized order.
-- Homography matrix generation using `SVD` technique.
-- Implemented `RANSAC` algorithm for finding the best Homography matrix
-- Stitched all images
+**Results:** <br>
+
+[Project Report](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/blob/master/Project-3/report.pdf)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
