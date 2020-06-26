@@ -5,30 +5,16 @@
   <b> Course offered by Professor Varun Chandola in Spring 2020 </b>
 </p>
 
-### [Edge Detection](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-1) :
+### [Linear Models for Supervised Learning](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/tree/master/Project-1) :
 <img src="Project-1/MD Files/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
-`Edge Detection` :The goal of this task is to experiment with two commonly used edge detection operator, i.e.,Prewitt operator and Sobel operator.Specifically, the task is to detect edges in a given image. Do not use any API provided by opencv and numpy in the code except(“`np.sqrt()`”, “`np.zeros()`”, “`np.ones()`”, “`np.multiply()`”, “`np.divide()`”, “`cv2.imread()`”,“`cv2.imshow()`”, “`cv2.imwrite()`”, and “`cv2.resize()`”)
-
-**Approach:**
-- The project applied `Sobel` and `Prewitt` filters to detect edges in a given image
-- Implemented common image processing tasks : 
-  - Image Padding
-  - Applied Convolution and Correlation
-  - All Images were normalized before implementing convolution and correlation. 
-  
-**Sample input and output:** 
+`Linear Models for Supervised Learning` :The goal of this project is to write linear machine learning models from scratch. Models like Linear Regression, Logistic Regression, Support Vector Machine (SVM) and Perceptron Learning. Applying Minimizing techniques like direct and Gradient Descent Method and compare the results on the given DIABETES dataset. Use of any Python libraries/toolboxes, built-in functions, or external tools/libraries that directly perform classification, regression, function fitting, etc. was prohibited. 
 
 Results: <br>
 
-Edge detection using `Prewitt` filter: 
+[Project Report](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/blob/master/Project-1/Report.pdf)
 
-<img src="Project -1/results/result 1.png" alt="result 1.png">
-
-Edge detection using `Sobel` filter: 
-
-<img src="Project -1/results/result 2.png" alt="result 2.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
