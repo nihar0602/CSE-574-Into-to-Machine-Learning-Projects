@@ -1,8 +1,8 @@
-# CSE 573: Computer Vision and Image Processing
+# CSE 574: Introduction to Machine Learning
 <p align="center">
 <img src="Project-1/MD Files/ub.png" alt="ub_logo.jpg" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project-1/MD Files/ub logo.png" alt="ub_log.jpg"> <br>
 
-  <b> Course offered by Professor David Doermann in Spring 2020 </b>
+  <b> Course offered by Professor Varun Chandola in Spring 2020 </b>
 </p>
 
 ### [Edge Detection](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-1) :
