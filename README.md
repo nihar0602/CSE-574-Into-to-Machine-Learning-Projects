@@ -11,7 +11,7 @@
 **Problem:** 
 `Linear Models for Supervised Learning` :The goal of this project is to write linear machine learning models from scratch. Models like Linear Regression, Logistic Regression, Support Vector Machine (SVM) and Perceptron Learning. Applying Minimizing techniques like direct and Gradient Descent Method and compare the results on the given DIABETES dataset. Use of any Python libraries/toolboxes, built-in functions, or external tools/libraries that directly perform classification, regression, function fitting, etc. was prohibited. 
 
-Results: <br>
+**Results:** <br>
 
 [Project Report](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/blob/master/Project-1/Report.pdf)
 
@@ -32,7 +32,7 @@ In Neural Network based approach, we applied different strategies. Strategies li
 
 **Part-2:**`Image Classification on the AI Quick Draw Dataset`: The goal of this project is to study the performance of the multi-layered pereceptron (Neural Network) on the AI quick draw dataset. The task was performed on the some portion of the original quick draw dataset. The original dataset consist of 50 million drawings, while we trained model on 4 million drawings dataset. A report is created which shows detailed information and evaluation performance(both accuracy and time) of the model on the test data set.  
 
-Results: <br>
+**Results:** <br>
 
 [Project Report](https://github.com/nihar0602/CSE-574-Into-to-Machine-Learning-Projects/blob/master/Project-2/report.pdf)
 
